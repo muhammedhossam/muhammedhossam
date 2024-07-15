@@ -4,6 +4,8 @@
 
 ![](https://github.com/muhammedhossam/muhammedhossam/blob/main/Bugs%20Bunny%20Looney%20Tunes%20GIF%20-%20Bugs%20Bunny%20Looney%20Tunes%20Cash%20-%20Discover%20%26%20Share%20GIFs.gif)
 
+<h6 align="center"><img src="https://komarev.com/ghpvc/?username=muhammedhossam&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 15-7-2024</i></h6>
+
 ---
 <p align="left">
       <a href="https://github.com/muhammedhossam?tab=followers">
@@ -12,6 +14,11 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muhammedhossam?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
+---
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/MoatazElmesmary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
+
+
 ---
 ### 🧰 Languages and Tools
 
