@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/493c1479-2e19-4c18-a3c4-ffaf504bd9ed)# 🌌 Muhammed Hossam
+# 🌌 Muhammed Hossam
 
 ## **`Data Scientist (Developer / ML / Computer Vision)`**
 
