@@ -1,8 +1,9 @@
 # 🌌 Muhammed Hossam
 
 **`Data Scientist (Developer/ML/Com-Vision)`**
-![](https://github.com/muhammedhossam/muhammedhossam/blob/main/planets-12200_256.gif)
+
 ![](https://github.com/muhammedhossam/muhammedhossam/blob/main/rocket-3972_256.gif)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
