@@ -1,8 +1,8 @@
 # 🌌 Muhammed Hossam
 
 ## **`Data Scientist (Developer / ML / Computer Vision)`**
-<p align ="center">
-      
+<p align="center">
+
 ![](https://github.com/muhammedhossam/muhammedhossam/blob/main/Bugs%20Bunny%20Looney%20Tunes%20GIF%20-%20Bugs%20Bunny%20Looney%20Tunes%20Cash%20-%20Discover%20%26%20Share%20GIFs.gif)
 </p>
 
