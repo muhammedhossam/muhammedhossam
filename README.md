@@ -5,9 +5,7 @@
 ![](https://github.com/muhammedhossam/muhammedhossam/blob/main/Bugs%20Bunny%20Looney%20Tunes%20GIF%20-%20Bugs%20Bunny%20Looney%20Tunes%20Cash%20-%20Discover%20%26%20Share%20GIFs.gif)
 ### 🧰 Languages and Tools
 
-
-<a href="https://www.flaticon.com/free-icons/excel" title="excel icons">Excel icons created by Pixel perfect - Flaticon</a>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.flaticon.com/free-icon/excel_732220?term=excel&page=1&position=1&origin=search&related_id=732220"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.flaticon.com/free-icons/excel"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
