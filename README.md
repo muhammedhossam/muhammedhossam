@@ -12,9 +12,12 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/muhammedhossam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/muhammedhossam?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muhammedhossam?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
 
 [![Linked-In Connect](https://img.shields.io/twitter/follow/muhammedhossam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/mohammed-hossam-151738233/)
+
+[![Kaggle Connect](https://img.shields.io/twitter/follow/muhammedhossam_Kaggle?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.kaggle.com/goodnightz)
+
 
 ---
 
@@ -53,20 +56,20 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Moataz-Elmesmary/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elmesmary&hide_border=true&show_icons=true" alt="Moataz's GitHub Stats" /> </a>
+      <a href="https://github.com/muhammedhossam/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=muhammedhossam&hide_border=true&show_icons=true" alt="Bunny's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/Moataz-Elmesmary/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elmesmary&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+      <a href="https://github.com/muhammedhossam/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedhossam&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Moataz-Elmesmary&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Moataz's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=muhammedhossam&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Moataz's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
 
 #
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedhossam&theme=tokyo-night)](https://github.com/muhammedhossam/github-readme-activity-graph)
 
-[Kaggle]: https://www.kaggle.com/goodnightz
-[LinkedIn]: https://www.linkedin.com/in/mohammed-hossam-151738233/
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
