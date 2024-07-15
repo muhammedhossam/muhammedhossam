@@ -1,10 +1,8 @@
 # 🌌 Muhammed Hossam
 
 ## **`Data Scientist (Developer / ML / Computer Vision)`**
-<p align="center">
-
 ![](https://github.com/muhammedhossam/muhammedhossam/blob/main/Bugs%20Bunny%20Looney%20Tunes%20GIF%20-%20Bugs%20Bunny%20Looney%20Tunes%20Cash%20-%20Discover%20%26%20Share%20GIFs.gif)
-</p>
+
 
 <h6 align="center"><img src="https://komarev.com/ghpvc/?username=muhammedhossam&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 15-7-2024</i></h6>
 
@@ -18,7 +16,7 @@
    
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MoatazElmesmary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/MoatazElmesmary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)
 
 
 ---
