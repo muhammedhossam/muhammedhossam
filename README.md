@@ -13,18 +13,12 @@
       <a href="https://github.com/muhammedhossam?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muhammedhossam?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-   
----
 
 [![Linked-In Connect](https://img.shields.io/twitter/follow/muhammedhossam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/mohammed-hossam-151738233/)
 
 ---
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
-
-
-
-
 
 
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
