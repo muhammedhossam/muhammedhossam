@@ -48,15 +48,23 @@
 
 ---
 
-### 📊 Stats
+### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> Overall Stats 
 
-![Bunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedhossam&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=muhammedhossam&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedhossam)](https://github.com/muhammedhossam/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Moataz-Elmesmary/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elmesmary&hide_border=true&show_icons=true" alt="Moataz's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/Moataz-Elmesmary/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elmesmary&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Moataz-Elmesmary&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Moataz's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
 
 #
 
